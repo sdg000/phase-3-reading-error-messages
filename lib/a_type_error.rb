@@ -1,3 +1,4 @@
 1 + 1
 
-1 + "is the loneliest number"
+#type error: adding 2 different data types
+# 1 + "is the loneliest number"
